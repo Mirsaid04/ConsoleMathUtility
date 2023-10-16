@@ -1,4 +1,6 @@
-﻿namespace ConsoleMathUtility.Classes
+﻿using static System.Net.Mime.MediaTypeNames;
+
+namespace ConsoleMathUtility.Classes
 {
     internal class CalculationProcess
     {
@@ -13,14 +15,10 @@
             int sum = firstNumber + secondNumber;
             Console.WriteLine($"Answer is {sum}",0);
         }
-        public int AddListOfNumbers(params int[] numbers)
-        {  
-            int sum =0;
-            foreach (var item in numbers)
-            {
-                sum += item;
-            }
-            return sum;
+        public static int AddListOfNumbers(string nums)
+        {
+            int[] provider = nums.Split(',').Select(n => Convert.ToInt32(n)).ToArray();
+            return provider.Sum();
         }
     }
 }
