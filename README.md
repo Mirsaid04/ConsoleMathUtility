@@ -8,7 +8,6 @@
 4.  `Converting Data types`
 5.   `Do While Loop`
 
-
 ## Here is the Video
 
 ![](./ConsoleMathUtility/Assets/Animation%20new%20new.gif)
