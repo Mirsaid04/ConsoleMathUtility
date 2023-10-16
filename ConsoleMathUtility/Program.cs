@@ -38,7 +38,7 @@ namespace ConsoleMathUtility
                 }
 
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Do you want to continue : [y/n]");
+                Console.Write("Do you want to continue [y/n]: ");
                 yesOrNo = Console.ReadLine()!;
                 Console.ResetColor();
 
