@@ -24,8 +24,9 @@ namespace ConsoleMathUtility
                         break;
 
                     case 2:
-                        int result = Calculate.AddListOfNumbers(1, 2, 3, 4);
-                        Console.WriteLine($"Entered 1,2,3,4\nThe answer is {result}");
+                        Console.Write("Please enter the number between \'comma\'(0,1) : ");
+                        string nums = Console.ReadLine();
+                        Console.WriteLine($"The answer is : {CalculationProcess.AddListOfNumbers(nums)}");
                         break;
 
                     case 3:
