@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bya+v9RF7c+3/tCkXzlO+hYgSywiDVR3FHJ7z9xiIylzfMcOM54mwaqImaFzkg2E/NQQozb3oSSM8Zsh2ZCCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mirsa\\OneDrive\\Desktop\\HomeWorks\\ConsoleMathUtility\\ConsoleMathUtility\\ConsoleMathUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirsa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\mirsa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\mirsa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\mirsa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
