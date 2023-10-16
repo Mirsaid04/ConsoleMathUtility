@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMathUtility", "ConsoleMathUtility\ConsoleMathUtility.csproj", "{3081C08A-94C0-429F-A737-3AE5D20E9197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3081C08A-94C0-429F-A737-3AE5D20E9197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3081C08A-94C0-429F-A737-3AE5D20E9197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3081C08A-94C0-429F-A737-3AE5D20E9197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3081C08A-94C0-429F-A737-3AE5D20E9197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E8AB166-C7A6-47DF-A01F-1EE1D5746251}
+	EndGlobalSection
+EndGlobal
