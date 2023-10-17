@@ -23,9 +23,7 @@ namespace ConsoleMathUtility
                         break;
 
                     case 2:
-                        Console.Write("Please enter the number between \'comma\'(0,1) : ");
-                        string nums = Console.ReadLine();
-                        Console.WriteLine($"The answer is : {CalculationProcess.AddListOfNumbers(nums)}");
+                        Calculate.AddListOfNumbers();
                         break;
 
                     case 3:
