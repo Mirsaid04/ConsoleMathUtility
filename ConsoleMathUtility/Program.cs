@@ -14,7 +14,6 @@ namespace ConsoleMathUtility
                 MultiplicationTable showTable = new MultiplicationTable();
 
                 report.ShowMenu();
-
                 int option = Convert.ToInt32(Console.ReadLine());
 
                 switch (option)
