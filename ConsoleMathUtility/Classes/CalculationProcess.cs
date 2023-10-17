@@ -15,10 +15,19 @@ namespace ConsoleMathUtility.Classes
             int sum = firstNumber + secondNumber;
             Console.WriteLine($"Answer is {sum}",0);
         }
-        public static int AddListOfNumbers(string nums)
+        public void AddListOfNumbers()
         {
-            int[] provider = nums.Split(',').Select(n => Convert.ToInt32(n)).ToArray();
-            return provider.Sum();
+            int sum = 0;
+            string[] numbers;
+            Console.Write("Please enter the number separeted with { , } :  ");
+            numbers = Console.ReadLine().Split(",");
+
+            foreach (var number in numbers)
+            {
+                sum += Convert.ToInt32(number);
+            }
+
+            Console.WriteLine($"Answer is {sum}");
         }
     }
 }
