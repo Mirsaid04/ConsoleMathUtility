@@ -13,7 +13,9 @@ namespace ConsoleMathUtility.Classes
             int secondNumber = Convert.ToInt32(Console.ReadLine());
 
             int sum = firstNumber + secondNumber;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"Answer is {sum}",0);
+            Console.ResetColor();
         }
         public void AddListOfNumbers()
         {
@@ -26,8 +28,9 @@ namespace ConsoleMathUtility.Classes
             {
                 sum += Convert.ToInt32(number);
             }
-
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"Answer is {sum}");
+            Console.ResetColor();   
         }
     }
 }
