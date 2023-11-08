@@ -1,4 +1,5 @@
 ﻿using ConsoleMathUtility.Classes;
+using Math = ConsoleMathUtility.Classes.Math;
 
 namespace ConsoleMathUtility
 {
@@ -12,6 +13,7 @@ namespace ConsoleMathUtility
                 ValueManipulator report = new ValueManipulator();
                 CalculationProcess Calculate = new CalculationProcess();
                 MultiplicationTable showTable = new MultiplicationTable();
+                Math math = new Math();
 
                 report.ShowMenu();
                 int option = Convert.ToInt32(Console.ReadLine());
@@ -28,6 +30,9 @@ namespace ConsoleMathUtility
 
                     case 3:
                         showTable.Multiplicator();
+                        break;
+                    case 4:
+                        math.Calculate();
                         break;
 
                     default:
