@@ -1,0 +1,14 @@
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\bin\Debug\net7.0\ConsoleMathUtility.exe
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\bin\Debug\net7.0\ConsoleMathUtility.deps.json
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\bin\Debug\net7.0\ConsoleMathUtility.runtimeconfig.json
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\bin\Debug\net7.0\ConsoleMathUtility.dll
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\bin\Debug\net7.0\ConsoleMathUtility.pdb
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.AssemblyInfoInputs.cache
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.AssemblyInfo.cs
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.dll
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\refint\ConsoleMathUtility.dll
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.pdb
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ConsoleMathUtility.genruntimeconfig.cache
+C:\Users\mirsa\OneDrive\Desktop\HomeWorks\ConsoleMathUtility\ConsoleMathUtility\obj\Debug\net7.0\ref\ConsoleMathUtility.dll
